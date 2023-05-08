@@ -32,6 +32,15 @@
   top: -34px;
 }
 
+.active {
+  color: rgb(33, 33, 33);
+  text-decoration: none;
+}
+
+.active:hover {
+  cursor: default;
+}
+
 li:first-letter {
   text-transform: capitalize;
 }
